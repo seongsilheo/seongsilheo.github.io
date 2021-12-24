@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Seongsil Heo
     tagline: Research Assistant
-    avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sheo1 dot ucsc.edu
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1sGaItVkkefU-JqOYIPI6wxy71oLMlLHh/view?usp=sharing
 
     languages:
       - idiom: Korean
@@ -49,7 +49,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary:
+    
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -57,7 +58,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Phd in Computer Science
+    - degree: Ph.D in Computer Science
       university: University of California, Santa Cruz
       time: 2021 -
       details: |
