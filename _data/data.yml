@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Seongsil Heo
@@ -48,88 +48,27 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary:
-    
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a first year Ph.D. student in Computer Engineering at [University of California, Santa Cruz](https://www.ucsc.edu/). I am a member of [Computer Vision Lab](https://vision.soe.ucsc.edu/) advised by [Professor Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/). I am currently working on Gaze-contingent screen magnification project for visually impaired people. My research interests lie broadly in artificial intelligence, machine learning, deep learning, time series analysis, object detection, computer vision, IoT healthcare, assistive technology, and philosophy of science.
+      <br><br>
+      I have received my Master's degree in Artificail Intelligence from Kookmin University, Seoul, South Korea. I was a member of Machine Intelligence Lab advised by Jaekoo Lee. My master's thesis was about Learning from time Series. I also have a Bachelor's degree in Computer Science from Kookmin University, Seoul, South Korea.
 education:
     - degree: Ph.D in Computer Science
-      university: University of California, Santa Cruz
-      time: 2021 -
+      university: University of California, Santa Cruz (2021 - )
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
           
     - degree: MSc in Computer Science
-      university: Kookmin University
-      time: 2019 - 2021
+      university: Kookmin University (2019 - 2021)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
+
     - degree: BSc in Computer Science
-      university: Kookmin University
-      time: 2013 - 2017
+      university: Kookmin University (2013 - 2017)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+
 projects:
     title: Projects
     intro: >
@@ -160,25 +99,38 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Learning from Time Series
+        link: "https://drive.google.com/file/d/1lUKAKxcGoR5mNmP5FBbd9UuiJiZh5JiY/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, In Kookmin University, Seoul, Korea, August 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Unsupervised Representation Learning for ECG-based Stress Detection (Best Paper Award)
+        link: "https://drive.google.com/file/d/1Cltd3VE56h9CFbE4IPlVsiW2wYP2QZo5/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, Jaekoo Lee, In IEMEK Symposium on Embedded Technology, May 2021
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Stress Detection with Single Sensor PPG by Orchestrating Multiple Denoising and Peak Detection Method
+        link: "https://ieeexplore.ieee.org/document/9358140"
+        authors:
+        conference: <b>Seongsil Heo</b>, Sunyoung Kwon, and Jaekoo Lee, In IEEE Access, February 2021
 
+      - title: PPG signal processing and comparison study with learning-based model for stress detection (Best Paper Award)
+        link: "https://drive.google.com/file/d/12jfe6J8EofJNrOKPAlVLLS_FpvjL2AA_/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, Inkyung Kim, Sunyoung Kwon, Hyejin Lee and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, August 2020
+        
+      - title: A variation on Loss function of Deep Neural Networks for Facial Recognition
+        link: "https://drive.google.com/file/d/1Is46obOXevLQt05ybSwDHCzjWQh_0k_y/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, Daehee Kim, Jaebin Lee and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, February 2020
+        
+      - title: Real-time Face De- identification in Visual Media using a Deep Neural Network for Object Detection
+        link: "https://drive.google.com/file/d/1mk1uioCqTEi6eh6NvP1UfydjCcKN5PZp/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, Daehee Kim, Yonguk Kim and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, June 2019
+        
 skills:
     title: Skills &amp; Proficiency
 
