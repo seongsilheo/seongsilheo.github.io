@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seongsilheo.github.io/sitemap.xml
