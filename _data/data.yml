@@ -69,15 +69,19 @@ education:
       details: |
 
 experiences:
-    - role: Applied Scientist Intern <br><br> <b>Amazon, Seattle </b>
+    - role: Applied Scientist Intern
       time: 2022.6 - Present
       company:
       details: |
+        <b>Amazon, Seattle </b>
+        <br><br>
         Joining Natural Language Processing and Computer Vision team
-    - role: Software Engineer Intern  <br><br> <b>KoreoGRFX, TX </b>
+    - role: Software Engineer Intern
       time: 2017.9 - 2018.3
       company:
       details: |
+        <b>KoreoGRFX, TX </b>
+        <br><br>
         Developed and tested a game based on C/C++ with Unity
 
 projects:
