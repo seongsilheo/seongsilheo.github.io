@@ -68,6 +68,17 @@ education:
       university: Kookmin University (2013 - 2017)
       details: |
 
+experiences:
+    - role: Applied Scientist Intern <br><br> <b>Amazon, Seattle </b>
+      time: 2022.6 - Present
+      company:
+      details: |
+        Joining Natural Language Processing and Computer Vision team
+    - role: Software Engineer Intern  <br><br> <b>KoreoGRFX, TX </b>
+      time: 2017.9 - 2018.3
+      company:
+      details: |
+        Developed and tested a game based on C/C++ with Unity
 
 projects:
     title: Projects
