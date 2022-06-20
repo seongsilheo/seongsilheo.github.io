@@ -50,9 +50,9 @@ sidebar:
 career-profile:
     title: About Me
     summary:
-      I am a first year Ph.D. student in Computer Science and Engineering at University of California, Santa Cruz. I am a member of [Computer Vision Lab](https://vision.soe.ucsc.edu/) advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/). I am currently working on Gaze-contingent Screen Magnification project for visually impaired people. My research interests lie broadly in artificial intelligence, machine learning, deep learning, time series analysis, computer vision, multi-modals, IoT healthcare, assistive technology, and philosophy of science.
+      I am a first year Ph.D. student in Computer Science and Engineering at University of California, Santa Cruz. I am a member of [Computer Vision Lab](https://vision.soe.ucsc.edu/) advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/). I have received my Master's degree in Computer Science from Kookmin University, Seoul, South Korea. My master's thesis was about Learning from time Series. I also have a Bachelor's degree in Computer Science from Kookmin University, Seoul, South Korea. My research interests lie broadly in artificial intelligence, machine learning, deep learning, time series analysis, computer vision, multi-modals, IoT healthcare, assistive technology, and philosophy of science.
       <br><br>
-      I have received my Master's degree in Computer Science from Kookmin University, Seoul, South Korea. My master's thesis was about Learning from time Series. I also have a Bachelor's degree in Computer Science from Kookmin University, Seoul, South Korea.
+     
 education:
     - degree: Ph.D. in Computer Science and Engineering
       university: University of California, Santa Cruz (2021 - )
