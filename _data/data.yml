@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: About Me
     summary:
-      I am a second year Ph.D. student in Computer Science and Engineering at University of California, Santa Cruz. I am a member of [Computer Vision Lab](https://vision.soe.ucsc.edu/) advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/). I have received my Master's degree in Computer Science from Kookmin University, Seoul, South Korea. My master's thesis was about Learning from time Series. I also have a Bachelor's degree in Computer Science from Kookmin University, Seoul, South Korea. My research interests lie broadly in machine learning, deep learning, time series analysis, computer vision, multi-modals, object detection, IoT healthcare, assistive technology, and philosophy of science.
+      I am a second year Ph.D. student in Computer Science and Engineering at University of California, Santa Cruz. I am a member of [Computer Vision Lab](https://vision.soe.ucsc.edu/) advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/). I have received my Master's degree in Computer Science from Kookmin University, Seoul, South Korea. My master's thesis was about Learning from time Series. I also have a Bachelor's degree in Computer Science from Kookmin University, Seoul, South Korea. My research interests are as follows: (1) Improve sequential data modeling (sensors, time series etc) (2) Multi-modality understanding of various data types (combining computer vision, time series, and NLP) (3) Human-Computer Interaction with AI fairness (Enhance AI to better benefit people, especially minority groups) (4) Machine learning, Deep learning, and Artificial Intelligence
       <br><br>
      
 education:
