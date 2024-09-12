@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: About Me
     summary:
-      I am a second year Ph.D. student in Computer Science and Engineering at University of California, Santa Cruz. I am a member of [Computer Vision Lab](https://vision.soe.ucsc.edu/) advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/). I have received my Master's degree in Computer Science from Kookmin University, Seoul, South Korea. My master's thesis was about Learning from time Series. I also have a Bachelor's degree in Computer Science from Kookmin University, Seoul, South Korea. My research interests are as follows; (1) Improving sequential data modeling (sensors, time series etc), (2) Multi-modality understanding of various data types, (3) Human-Computer Interaction with AI fairness (Enhance AI to better benefit people, especially minority groups).
+      I am a Ph.D. Candidate, advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/) in Computer Science and Engineering at University of California, Santa Cruz. I’m passionate about leveraging innovative AI technologies for positive societal impact, promoting equitable opportunities, and driving meaningful change towards societal well-being. My main passion lies in the understanding of human body movements, where I have notably contributed to eye gaze movement, diverse time series data analysis, and multi-modal approaches etc.
       <br><br>
      
 education:
@@ -69,33 +69,24 @@ education:
       details: |
 
 experiences:
+    - role: Research Scientist Intern
+      time: 2024.6 - 
+      company:
+      details: |
+        <b>Meta, Redmond, WA </b>
+        <br><br>
+        Reality Lab Auido team
+
     - role: Applied Scientist Intern
       time: 2022.6 - 2022.9
       company:
       details: |
-        <b>Amazon, Seattle </b>
+        <b>Amazon, Seattle, WA </b>
         <br><br>
         Computer Vision and NLP team
         <br>
         Early-fusion multi-modal model for product type classification
         <br>
-    - role: Software Engineer Intern
-      time: 2017.9 - 2018.3
-      company:
-      details: |
-        <b>KoreoGRFX, TX </b>
-        <br><br>
-        Developed and tested a game based on C/C++ with Unity
-        <br>
-    - role: Software Engineer Intern
-      time: 2017.4 - 2017.7
-      company:
-      details: |
-        <b>Fresh Admin LLC, Nashville, TN </b>
-        <br><br>
-        Created a C# based program for sending automated scheduled emails
-        <br>
-        to users using SQL on attached files
 
 projects:
     title: Projects
@@ -129,11 +120,26 @@ publications:
     intro: |
       
     papers:
+      - title: Reading with Screen Magnification; Eye Movement Analysis Using Compensated Gaze Tracks
+        link: "https://dl.acm.org/doi/abs/10.1145/3649902.3656493"
+        authors:
+        conference: <b>Seongsil Heo</b>, Roberto Manduchi, and Suzana Chung, In ACM Symposium on Eye Tracking Research & Applications(ETRA), MULTIPLEYE, April 2024
+      - title: Bimo; Bootstrap Inter-Intra Modality at Once Unsupervised Learning for Multivariate Time Series
+        link: "https://www.mdpi.com/2076-3417/14/9/3825"
+        authors:
+        conference: <b>Seongsil Heo</b>, Jaekoo Lee, In Applied Sciences, April 2024
+      - title: Eye Movement Analysis for Low Vision Readers Using a Full Screen Magnifier
+        link: "https://iovs.arvojournals.org/article.aspx?articleid=2795640"
+        authors:
+        conference: Roberto Manduchi, <b>Seongsil Heo</b>, Suzana Chung, February 2024
+      - title: Sage; A Multimodal Knowledge Graph-based Conversational Agent for Complex Task Guidance
+        link: "https://assets.amazon.science/f7/43/e5747b714658a972b5f418b27f38/sage-tb2-final-2023.pdf"
+        authors:
+        conference: Kaizhi Z., Jeshwanth B., Bhrigu G., <b>Seongsil Heo</b>, Vignesh, Dhananjay S., Winson C., Shree V., Wang E., 2023
       - title: Learning from Time Series
         link: "https://drive.google.com/file/d/1lUKAKxcGoR5mNmP5FBbd9UuiJiZh5JiY/view?usp=sharing"
         authors:
         conference: <b>Seongsil Heo</b>, In Kookmin University, Seoul, Korea, August 2021
-
       - title: Unsupervised Representation Learning for ECG-based Stress Detection (Best Paper Award)
         link: "https://drive.google.com/file/d/1Cltd3VE56h9CFbE4IPlVsiW2wYP2QZo5/view?usp=sharing"
         authors:
