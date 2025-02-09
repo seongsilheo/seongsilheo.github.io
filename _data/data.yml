@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Short-track speed skating, Piano, Cycling, Swimming, Drawing
+      - item: Speed skating, piano, running, drawing, reading
         link:
 
       - item:
@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: About Me
     summary:
-      I am a Ph.D. Candidate, advised by professor [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/) in Computer Science and Engineering at University of California, Santa Cruz. I’m passionate about leveraging innovative AI technologies for positive societal impact, promoting equitable opportunities, and driving meaningful change towards societal well-being. My main passion lies in the understanding of human body movements, where I have notably contributed to eye gaze movement, diverse time series data analysis, and multi-modal approaches etc.
+      I am a Ph.D. Candidate in Computer Science and Engineering at University of California, Santa Cruz. I’m passionate about leveraging innovative AI technologies for positive societal impact, promoting equitable opportunities, and driving meaningful change toward societal well-being. My main interest is about leveraging non-verbal cues to gain deeper insights into human behavior patterns and understanding how humans think and act 👀🧠. With over 7 years of experience in machine learning, I specialize in projects involving eye gaze movement, behavioral data, time series data, and multi-modal approaches. While I enjoy exploring machine learning methods, I also prioritize understanding and applying domain knowledge to develop practical and impactful solutions.
       <br><br>
      
 education:
