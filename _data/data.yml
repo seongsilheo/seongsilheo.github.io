@@ -50,8 +50,11 @@ sidebar:
 career-profile:
     title: About Me
     summary:
-      I am passionate about leveraging innovative AI technologies for positive societal impact, promoting equitable opportunities, and driving meaningful change toward societal well-being. My main interest is about leveraging non-verbal cues to gain deeper insights into human behavior patterns and understanding how humans think and act 👀🧠. With over 7 years of experience in machine learning, I specialize in projects involving eye gaze movement, behavioral data, time series data, and multi-modal approaches. I focus on integrating domain knowledge with AI to develop solutions that are both innovative and impactful, ensuring they address real-world challenges effectively. My work emphasizes optimization and applicability, particularly in Human-Computer Interaction (HCI) and multimodal AI systems. By leveraging behavioral insights, I enhance interaction design, adaptive interfaces, and user-centric applications, bridging the gap between foundational AI research and practical implementation.
-      <br><br>
+      I am passionate about leveraging human-centered AI to drive positive societal impact, create emotionally intelligent systems, and promote equitable opportunities for all. My core interest lies in utilizing deep behavioral insights from non-verbal cues (👀🧠) to better understand human thought processes, interactions, and decision-making patterns.
+      <br>
+      With over 7 years of experience in machine learning, I specialize in multimodal AI, including eye gaze movement, behavioral analysis, and time-series data. My approach integrates domain expertise with AI, ensuring that technology is not just innovative but also meaningful, ethical, and socially responsible. I focus on building tech with intuition and purpose, designing systems that enhance adaptive interfaces, user-centric applications, and inclusive, empathetic interactions.
+      <br>
+      By bridging foundational AI research and real-world applications, my work ensures that AI evolves beyond raw intelligence, fostering human-AI collaboration that is intuitive, responsible, and transformative. I believe in shaping AI that respects and amplifies human cognition, empowering people through technology while keeping the ethical and emotional dimensions of AI at the forefront.
      
 education:
     - degree: Ph.D. in Computer Science and Engineering
