@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1x_ccfWND3MSLHgYEoZY2RbDh7RMNVi8z/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1g9DFBjcLfmgGPNzQSRPmfTA3WVIQ0CCW/view?usp=sharing
 
     languages:
       - idiom: Korean
@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Speed skating, running, piano
+      - item: Speed skating, piano, running, drawing, reading
         link:
 
       - item:
@@ -65,7 +65,7 @@ education:
     - degree: Master and Bachelor's in Computer Science
       university: Kookmin University (Graduated in 2021)
       details: |
-
+      
 
 experiences:
     - role: Research Scientist Intern
@@ -83,6 +83,8 @@ experiences:
         <b>Amazon, Seattle, WA </b>
         <br><br>
         Computer Vision and NLP team
+        <br>
+        Early-fusion multi-modal model for product type classification
         <br>
 
 projects:
@@ -128,23 +130,19 @@ publications:
       - title: Reading with Screen Magnification; Eye Movement Analysis Using Compensated Gaze Tracks
         link: "https://dl.acm.org/doi/abs/10.1145/3649902.3656493"
         authors:
-        conference: <b>Seongsil Heo</b>, Roberto Manduchi, and Suzana Chung, In ACM Symposium on Eye Tracking Research & Applications(ETRA), MULTIPLEYE, 2024
+        conference: <b>Seongsil Heo</b>, Roberto Manduchi, and Suzana Chung, In ACM Symposium on Eye Tracking Research & Applications(ETRA), MULTIPLEYE, April 2024
       - title: Bimo; Bootstrap Inter-Intra Modality at Once Unsupervised Learning for Multivariate Time Series
         link: "https://www.mdpi.com/2076-3417/14/9/3825"
         authors:
-        conference: <b>Seongsil Heo</b>, Jaekoo Lee, In Applied Sciences, 2024
+        conference: <b>Seongsil Heo</b>, Jaekoo Lee, In Applied Sciences, April 2024
       - title: Eye Movement Analysis for Low Vision Readers Using a Full Screen Magnifier
         link: "https://iovs.arvojournals.org/article.aspx?articleid=2795640"
         authors:
-        conference: Roberto Manduchi, <b>Seongsil Heo</b>, Suzana Chung, 2024
+        conference: Roberto Manduchi, <b>Seongsil Heo</b>, Suzana Chung, February 2024
       - title: Sage; A Multimodal Knowledge Graph-based Conversational Agent for Complex Task Guidance
         link: "https://assets.amazon.science/f7/43/e5747b714658a972b5f418b27f38/sage-tb2-final-2023.pdf"
         authors:
         conference: Kaizhi Z., Jeshwanth B., Bhrigu G., <b>Seongsil Heo</b>, Vignesh, Dhananjay S., Winson C., Shree V., Wang E., 2023
-      - title: Stress Detection with Single Sensor PPG by Orchestrating Multiple Denoising and Peak Detection Method
-        link: "https://ieeexplore.ieee.org/document/9358140"
-        authors:
-        conference: <b>Seongsil Heo</b>, Sunyoung Kwon, and Jaekoo Lee, In IEEE Access, 2021
       - title: Learning from Time Series
         link: "https://drive.google.com/file/d/1lUKAKxcGoR5mNmP5FBbd9UuiJiZh5JiY/view?usp=sharing"
         authors:
@@ -152,12 +150,28 @@ publications:
       - title: Unsupervised Representation Learning for ECG-based Stress Detection (Best Paper Award)
         link: "https://drive.google.com/file/d/1Cltd3VE56h9CFbE4IPlVsiW2wYP2QZo5/view?usp=sharing"
         authors:
-        conference: <b>Seongsil Heo</b>, Jaekoo Lee, In IEMEK Symposium on Embedded Technology, 2021
+        conference: <b>Seongsil Heo</b>, Jaekoo Lee, In IEMEK Symposium on Embedded Technology, May 2021
+
+      - title: Stress Detection with Single Sensor PPG by Orchestrating Multiple Denoising and Peak Detection Method
+        link: "https://ieeexplore.ieee.org/document/9358140"
+        authors:
+        conference: <b>Seongsil Heo</b>, Sunyoung Kwon, and Jaekoo Lee, In IEEE Access, February 2021
+
       - title: PPG signal processing and comparison study with learning-based model for stress detection (Best Paper Award)
         link: "https://drive.google.com/file/d/12jfe6J8EofJNrOKPAlVLLS_FpvjL2AA_/view?usp=sharing"
         authors:
-        conference: <b>Seongsil Heo</b>, Inkyung Kim, Sunyoung Kwon, Hyejin Lee and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2020
-
+        conference: <b>Seongsil Heo</b>, Inkyung Kim, Sunyoung Kwon, Hyejin Lee and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, August 2020
+        
+      - title: A variation on Loss function of Deep Neural Networks for Facial Recognition
+        link: "https://drive.google.com/file/d/1Is46obOXevLQt05ybSwDHCzjWQh_0k_y/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, Daehee Kim, Jaebin Lee and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, February 2020
+        
+      - title: Real-time Face De-identification in Visual Media using a Deep Neural Network for Object Detection
+        link: "https://drive.google.com/file/d/1mk1uioCqTEi6eh6NvP1UfydjCcKN5PZp/view?usp=sharing"
+        authors:
+        conference: <b>Seongsil Heo</b>, Daehee Kim, Yonguk Kim and Jaekoo Lee, In Proceedings of Symposium of the Korean Institute of communications and Information Sciences, June 2019
+        
 skills:
     title: Skills &amp; Proficiency
 
