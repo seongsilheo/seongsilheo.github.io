@@ -123,14 +123,14 @@ publications:
         link: "https://dl.acm.org/doi/abs/10.1145/3649902.3656493"
         authors:
         conference: <b>Seongsil Heo</b>, Roberto Manduchi, and Suzana Chung, In ACM Symposium on Eye Tracking Research & Applications(ETRA), MULTIPLEYE, April 2024
-      - title: Mouse-Guided Gaze: Semi-Supervised Learning of Intention-Aware Representations for Reading Detection
-        link: "https://arxiv.org/pdf/2509.19574"
+      - title: Reading with Screen Magnification; Eye Movement Analysis Using Compensated Gaze Tracks
+        link: "https://dl.acm.org/doi/abs/10.1145/3649902.3656493"
         authors:
-        conference: <b>Seongsil Heo</b>, Roberto Manduchi, In NeurIPS Foundation Models for the Brain and Body Workshop, 2025
-      - title: Gaze-Enhanced Multimodal Turn-Taking Prediction in Triadic Conversations
-        link: "https://www.isca-archive.org/interspeech_2025/heo25_interspeech.pdf"
+        conference: <b>Seongsil Heo</b>, Roberto Manduchi, and Suzana Chung, In ACM Symposium on Eye Tracking Research & Applications(ETRA), MULTIPLEYE, April 2024
+      - title: Reading with Screen Magnification; Eye Movement Analysis Using Compensated Gaze Tracks
+        link: "https://dl.acm.org/doi/abs/10.1145/3649902.3656493"
         authors:
-        conference: <b>Seongsil Heo</b>, Calvin Murdock, Michael Porulx, Christi Miller, In InterSpeech, 2025
+        conference: <b>Seongsil Heo</b>, Roberto Manduchi, and Suzana Chung, In ACM Symposium on Eye Tracking Research & Applications(ETRA), MULTIPLEYE, April 2024
       - title: Bimo; Bootstrap Inter-Intra Modality at Once Unsupervised Learning for Multivariate Time Series
         link: "https://www.mdpi.com/2076-3417/14/9/3825"
         authors:
