@@ -117,11 +117,11 @@ publications:
     intro: |
       
     papers:
-        - title: Mouse-Guided Gaze: Semi-Supervised Learning of Intention-Aware Representations for Reading Detection
+      - title: Mouse-Guided Gaze: Semi-Supervised Learning of Intention-Aware Representations for Reading Detection
         link: "https://arxiv.org/pdf/2509.19574"
         authors:
         conference: <b>Seongsil Heo</b>, Roberto Manduchi, In NeurIPS 2025 Workshop; Foundation Models for the Brain and Body, 2025
-        - title: Gaze-Enhanced Multimodal Turn-Taking Prediction in Triadic Conversations
+      - title: Gaze-Enhanced Multimodal Turn-Taking Prediction in Triadic Conversations
         link: "https://www.isca-archive.org/interspeech_2025/heo25_interspeech.pdf"
         authors:
         conference: <b>Seongsil Heo</b>, Calvin Murdock, Michael Porulx, Christi Miller, In InterSpeech, 2025
